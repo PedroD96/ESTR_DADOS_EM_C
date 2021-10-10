@@ -4,6 +4,12 @@
 #include<windows.h>
 using namespace std;
 
+/*
+        Author: @PedroD96
+        05/10/2021
+
+*/
+
 
  
 // Operações para a Calculadora
